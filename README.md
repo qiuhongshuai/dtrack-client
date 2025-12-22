@@ -7,7 +7,7 @@
 
 ### 通过 Go 安装
 如果你已经安装了 Go，可以通过以下命令安装 `dtrack-client`：
-```sh go install github.com/yourusername/dtrack-client@latest```
+```sh go install github.com/qiuhongshuai/dtrack-client@latest```
 ### 通过二进制文件安装
 你可以从 [GitHub Releases](https://github.com/qiuhongshuai/dtrack-client/releases) 页面下载适用于你操作系统的二进制文件，并将其添加到你的 PATH 中。
 
